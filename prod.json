@@ -1,0 +1,6 @@
+[
+  { "id": 0, "nombre": "Ryzen 5 5500", "precio": 35000 },
+  { "id": 1, "nombre": "Ryzen 3 3300X", "precio": 22000 },
+  { "id": 2, "nombre": "Intel i5 11400", "precio": 45000 },
+  { "id": 3, "nombre": "Motherboard-A68HM-H", "precio": 15000 }
+]
